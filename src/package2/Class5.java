@@ -1,4 +1,4 @@
 package package2;
-//new comment
+//another comment
 public class Class5 {
 }
