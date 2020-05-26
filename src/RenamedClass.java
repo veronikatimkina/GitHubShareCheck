@@ -1,4 +1,4 @@
 public class RenamedClass {
-    //qwerty
+    //qwerty123
     public void fooooooooooooooooo(){}
 }
