@@ -1,3 +1,3 @@
 public class RenamedClass {
-    public void foo123(){}
+    public void fooooooooooooooooo(){}
 }
