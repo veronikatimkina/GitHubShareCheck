@@ -1,4 +1,4 @@
 package package2;
-//another comment
+//another
 public class Class5 {
 }
