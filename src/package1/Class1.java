@@ -1,4 +1,4 @@
 package package1;
-//comment from win to check local conflict merge+shelve
+//comment from win
 public class Class1 {
 }
