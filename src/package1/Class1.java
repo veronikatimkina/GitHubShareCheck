@@ -1,4 +1,4 @@
 package package1;
-//something new
+//something
 public class Class1 {
 }
