@@ -1,3 +1,3 @@
-//test update with conflict
+//ulala
 public class Class2 {
 }
