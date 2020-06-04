@@ -1,6 +1,6 @@
 package package1;
 
 public class Class1 {
-    //qqq
+    //ththrthrth
     public void foo(){}
 }
