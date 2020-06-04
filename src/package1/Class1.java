@@ -1,6 +1,6 @@
 package package1;
 
 public class Class1 {
-    @Deprecated
+    //qqq
     public void foo(){}
 }
