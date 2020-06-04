@@ -1,4 +1,4 @@
 public class RenamedClass {
     //qwerty
-    public void foo123(){}
+    public void foo(){}
 }
